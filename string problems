@@ -1,0 +1,154 @@
+1. Reverse a String
+Write a program to reverse a given string.
+
+Example:
+
+Input: "hello"
+Output: "olleh"
+2. Count Vowels and Consonants
+Write a program that counts the number of vowels and consonants in a string.
+
+Example:
+
+Input: "hello"
+Output:
+makefile
+Copy
+Vowels: 2
+Consonants: 3
+3. Check for Palindrome
+Write a program to check whether a given string is a palindrome (i.e., it reads the same forward and backward).
+
+Example:
+
+Input: "madam"
+Output: "Palindrome"
+Input: "hello"
+Output: "Not a Palindrome"
+4. Count Occurrences of a Character
+Write a program to count how many times a specific character appears in a string.
+
+Example:
+
+Input: "banana", Character: 'a'
+Output: 3
+5. Remove All Whitespaces
+Write a program that removes all whitespace characters from a string.
+
+Example:
+
+Input: " hello world "
+Output: "helloworld"
+6. Find the First Non-Repeated Character
+Write a program to find the first non-repeated character in a string.
+
+Example:
+
+Input: "swiss"
+Output: 'w'
+7. Check if Two Strings Are Anagrams
+Write a program to check if two strings are anagrams (i.e., they contain the same characters in a different order).
+
+Example:
+
+Input: "listen", "silent"
+Output: "Anagrams"
+Input: "hello", "world"
+Output: "Not Anagrams"
+8. Convert String to Uppercase and Lowercase
+Write a program to convert all characters of a string to uppercase and lowercase.
+
+Example:
+
+Input: "Hello"
+Output:
+vbnet
+Copy
+Uppercase: "HELLO"
+Lowercase: "hello"
+9. Remove All Duplicate Characters
+Write a program to remove all duplicate characters from a string.
+
+Example:
+
+Input: "programming"
+Output: "progamin"
+10. Find the Length of a String Without Using .length()
+Write a program to find the length of a string without using the built-in .length() method.
+
+Example:
+
+Input: "hello"
+Output: 5
+11. Check if a String Contains Another String
+Write a program to check if one string is a substring of another string.
+
+Example:
+
+Input: "hello world", Substring: "world"
+Output: "Substring found"
+12. Concatenate Two Strings
+Write a program to concatenate two strings without using the + operator.
+
+Example:
+
+Input: "Hello", " World"
+Output: "Hello World"
+13. Find the Index of a Character
+Write a program that finds the index of the first occurrence of a character in a string.
+
+Example:
+
+Input: "programming", Character: 'g'
+Output: 3
+14. Remove Substring from a String
+Write a program to remove all occurrences of a specific substring from a string.
+
+Example:
+
+Input: "hello world world", Substring: "world"
+Output: "hello "
+15. Check if a String Contains Only Digits
+Write a program that checks whether a given string contains only digits.
+
+Example:
+
+Input: "12345"
+Output: "Yes"
+Input: "abc123"
+Output: "No"
+16. Find the Character at the Nth Position
+Write a program that returns the character at a specific index of a string.
+
+Example:
+
+Input: "hello", Index: 2
+Output: "l"
+17. Convert a String to a Character Array
+Write a program to convert a string into an array of characters.
+
+Example:
+
+Input: "hello"
+Output: ['h', 'e', 'l', 'l', 'o']
+18. Replace a Character in a String
+Write a program to replace all occurrences of a character in a string with another character.
+
+Example:
+
+Input: "hello world", Replace 'o' with 'x'
+Output: "hellx wxrld"
+19. Find the Most Frequent Character
+Write a program to find the most frequent character in a string.
+
+Example:
+
+Input: "google"
+Output: 'g'
+20. Extract Substring
+Write a program to extract a substring from a given string between two indices.
+
+Example:
+
+Input: "hello world", Start: 0, End: 5
+Output: "hello"
